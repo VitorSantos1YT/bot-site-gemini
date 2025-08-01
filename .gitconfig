@@ -1,0 +1,11 @@
+[safe]
+	directory = /storage/emulated/0/Download/site-pronto
+[user]
+	name = VitorSantos1YT
+	email = vitorsantosmartins2708@gmail.com
+[credential "https://github.com"]
+	helper = 
+	helper = !/data/data/com.termux/files/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/data/data/com.termux/files/usr/bin/gh auth git-credential

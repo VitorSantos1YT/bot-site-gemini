@@ -1,0 +1,7 @@
+## Pages
+- [Avaliar Imóvel - PrecificaImóvel Já](/propertyevaluation): Avalie seu imóvel gratuitamente. Digite o endereço e obtenha uma estimativa de preço precisa em segundos.
+- [Cadastro - PrecificaImóvel Já](/register): Crie sua conta e comece a usar nossa plataforma de avaliação de imóveis.
+- [Login - PrecificaImóvel Já](/login): Acesse sua conta para continuar avaliando imóveis.
+- [Painel do Usuário - PrecificaImóvel Já](/dashboard): Gerencie sua conta, plano e configurações.
+- [PrecificaImóvel Já - Avaliação Automática de Imóveis](/home): Plataforma inteligente para avaliação automática de imóveis residenciais. Obtenha estimativas precisas de preço usando apenas o endereço.
+- [Resultado da Avaliação - PrecificaImóvel Já](/evaluationresult): Veja o resultado da avaliação do seu imóvel com estimativa de preço, análise de mercado e nível de confiança.
